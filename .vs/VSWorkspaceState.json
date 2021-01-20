@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Client application",
-    "\\Server application"
+    "\\Serverapplication"
   ],
-  "SelectedNode": "\\Server application\\Dice Roller.cs",
+  "SelectedNode": "\\Serverapplication\\FileIO.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,9 +1,9 @@
 ﻿using System;
 
-public class Class1
+namespace Client
 {
-	public Class1()
+	public class Client
 	{
-
+		
 	}
 }
