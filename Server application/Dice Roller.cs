@@ -1,13 +1,8 @@
 ﻿using System;
 
-public class DiceRoller
+public class DiceRoller : Dice
 {
-	public int Dice()
-    {
-		return Dice
-    }
-	
-	
+
 	public DiceRoller()
 	{
 		Random dice = dice
